@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "82b7fdc5-1915-4e7d-a9bd-0fe6912d6b86"
+      }
+    },
+    "ios": {
+      "bundleIdentifier": "com.ehddud819.diary"
+    }
+  }
+}
