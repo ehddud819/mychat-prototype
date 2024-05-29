@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/mychat-prototype.github.io/static/css/main.48d1c443.css",
+    "main.js": "/mychat-prototype.github.io/static/js/main.fb46ba3d.js",
+    "static/js/453.3e3bd2d1.chunk.js": "/mychat-prototype.github.io/static/js/453.3e3bd2d1.chunk.js",
+    "static/media/rundry_Bold.woff": "/mychat-prototype.github.io/static/media/rundry_Bold.103425ced1cd3b97f388.woff",
+    "static/media/rundry_Regular.woff": "/mychat-prototype.github.io/static/media/rundry_Regular.9eeb227d0da164cd82cc.woff",
+    "index.html": "/mychat-prototype.github.io/index.html",
+    "main.48d1c443.css.map": "/mychat-prototype.github.io/static/css/main.48d1c443.css.map",
+    "main.fb46ba3d.js.map": "/mychat-prototype.github.io/static/js/main.fb46ba3d.js.map",
+    "453.3e3bd2d1.chunk.js.map": "/mychat-prototype.github.io/static/js/453.3e3bd2d1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48d1c443.css",
+    "static/js/main.fb46ba3d.js"
+  ]
+}
